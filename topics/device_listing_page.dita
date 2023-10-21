@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="device_listing_page">
+    <title>Device Listing Page</title>
+    <body>
+        <p>The device listing page is where you can view all managed chromebooks and allows the
+            admin to do lots of management tasks.</p>
+    </body>
+</topic>

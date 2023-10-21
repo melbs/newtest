@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="enrollment_setting">
+    <title>Enrollment Setting</title>
+    <shortdesc>Enrollment Setting<data>setting values are: one, two, three</data></shortdesc>
+    <refbody> </refbody>
+</reference>

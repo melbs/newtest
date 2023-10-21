@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>audit3</title>
+    <topicref href="topics/core_services.dita">
+        <topicref href="topics/organizational_units.dita"/>
+        <topicref href="topics/turning_on_a_service.dita"/>
+    </topicref>
+    <topicref href="topics/device_listing_page.dita">
+        <topicref href="topics/enrolling_a_chromebook.dita"/>
+    </topicref>
+    <topicref href="topics/device_settings.dita">
+        <topicref href="topics/enrollment_setting.dita"/>
+    </topicref>
+    <topicref href="topics/welcome.dita"/>
+</map>
