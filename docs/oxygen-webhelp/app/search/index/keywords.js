@@ -1,17 +1,18 @@
-var keywords=[{w:"Context",p:["p0"]},{w:"Sensitive",p:["p0"]},{w:"Help",p:["p0"]},{w:"Apps",p:["p1","p6"]},{w:"chrome",p:["p2"]},{w:"Core",p:["p3"]},{w:"Services",p:["p3"]},{w:"Device",p:["p4","p5"]},{w:"Listing",p:["p4"]},{w:"Page",p:["p4"]},{w:"Settings",p:["p5"]},{w:"different",p:["p6"]},{w:"enrolling",p:["p7"]},{w:"a",p:["p7","p10"]},{w:"chromebook",p:["p7"]},{w:"Enrollment",p:["p8"]},{w:"Setting",p:["p8"]},{w:"Organizational",p:["p9"]},{w:"Units",p:["p9"]},{w:"turning",p:["p10"]},{w:"on",p:["p10"]},{w:"service",p:["p10"]},{w:"My",p:["p11"]},{w:"first",p:["p11"]},{w:"topic",p:["p11"]}];
+var keywords=[{w:"Context",p:["p0"]},{w:"Sensitive",p:["p0"]},{w:"Help",p:["p0"]},{w:"Reusable",p:["p1"]},{w:"Components",p:["p1"]},{w:"Apps",p:["p2","p7"]},{w:"chrome",p:["p3"]},{w:"Core",p:["p4"]},{w:"Services",p:["p4"]},{w:"Device",p:["p5","p6"]},{w:"Listing",p:["p5"]},{w:"Page",p:["p5"]},{w:"Settings",p:["p6"]},{w:"different",p:["p7"]},{w:"enrolling",p:["p8"]},{w:"a",p:["p8","p11"]},{w:"chromebook",p:["p8"]},{w:"Enrollment",p:["p9"]},{w:"Setting",p:["p9"]},{w:"Organizational",p:["p10"]},{w:"Units",p:["p10"]},{w:"turning",p:["p11"]},{w:"on",p:["p11"]},{w:"service",p:["p11"]},{w:"My",p:["p12"]},{w:"first",p:["p12"]},{w:"topic",p:["p12"]}];
 var ph={};
 ph["p0"]=[0, 1, 2];
-ph["p1"]=[3];
-ph["p11"]=[22, 23, 24];
-ph["p2"]=[4];
-ph["p3"]=[5, 6];
-ph["p4"]=[7, 8, 9];
-ph["p5"]=[7, 10];
-ph["p6"]=[11, 3];
-ph["p7"]=[12, 13, 14];
-ph["p8"]=[15, 16];
+ph["p1"]=[3, 4];
+ph["p2"]=[5];
+ph["p3"]=[6];
+ph["p4"]=[7, 8];
+ph["p5"]=[9, 10, 11];
+ph["p6"]=[9, 12];
+ph["p7"]=[13, 5];
+ph["p8"]=[14, 15, 16];
 ph["p9"]=[17, 18];
-ph["p10"]=[19, 20, 13, 21];
+ph["p10"]=[19, 20];
+ph["p12"]=[24, 25, 26];
+ph["p11"]=[21, 22, 15, 23];
 var keywordsInfo = {
     keywords: keywords,
     ph: ph

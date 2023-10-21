@@ -12,5 +12,4 @@
     <topicref href="topics/device_settings.dita">
         <topicref href="topics/enrollment_setting.dita"/>
     </topicref>
-    <topicref href="topics/welcome.dita"/>
 </map>

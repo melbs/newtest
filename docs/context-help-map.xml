@@ -8,5 +8,4 @@
                path="topics/enrolling_a_chromebook.html"/>
    <appContext helpID="device_settings" path="topics/device_settings.html"/>
    <appContext helpID="enrollment_setting" path="topics/enrollment_setting.html"/>
-   <appContext helpID="welcome" path="topics/welcome.html"/>
 </map>
