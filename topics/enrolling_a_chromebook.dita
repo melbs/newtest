@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enrolling_a_chromebook">
+    <title>enrolling a chromebook</title>
+    <shortdesc>this is how you enroll a chromebook into your admin console</shortdesc>
+    <taskbody>
+        <context>context goes here<p/></context>
+        <steps>
+            <step>
+                <cmd>open your chromebook</cmd>
+            </step>
+            <step>
+                <cmd>do the key combo</cmd>
+            </step>
+            <step>
+                <cmd>enter in the wifi</cmd>
+            </step>
+            <step>
+                <cmd>log in with this un/pwd</cmd>
+            </step>
+            <step>
+                <cmd>wait for a bit</cmd>
+            </step>
+            <step>
+                <cmd>make sure you reboot</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

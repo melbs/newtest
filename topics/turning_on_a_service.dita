@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="turning_on_a_service">
+    <title>turning on a service</title>
+    <shortdesc>this is how you turn on a service</shortdesc>
+    <taskbody>
+        <context>turn on or off a service<p/>first go to the service. there are two kinds of
+            services.</context>
+        <steps>
+            <step>
+                <cmd>click on the OU</cmd>
+            </step>
+            <step>
+                <cmd>enable</cmd>
+            </step>
+            <step>
+                <cmd>click save</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index2 = {"go":"5*0*c","goes":"4*0*c","help":"0*20*2","here":"1*10*-1$2,4*0*d","how":"4*10*-1$4,5*10*-1$4","images":"6*10*-1$c","key":"4*0*i","kinds":"3*10*-1$5,5*0*f","list":"1*10*-1$3","log":"4*0*m","make":"4*0*s","many":"3*10*-1$4","more":"3*10*-1$b","my":"6*30*0$3","note":"6*20*-1$-1$g$i","off":"5*0*9","open":"4*0*e","ou":"5*0*i","pwd":"4*0*p","reboot":"4*0*v","reusable":"6*20*-1$-1$e$h"};

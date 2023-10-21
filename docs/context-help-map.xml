@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="apps" path="topics/apps.html"/>
+   <appContext helpID="different_apps" path="topics/different_apps.html"/>
+   <appContext helpID="turning_on_a_service" path="topics/turning_on_a_service.html"/>
+   <appContext helpID="chrome" path="topics/chrome.html"/>
+   <appContext helpID="enrolling_a_chromebook"
+               path="topics/enrolling_a_chromebook.html"/>
+   <appContext helpID="welcome" path="topics/welcome.html"/>
+</map>
