@@ -73,7 +73,7 @@
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My first topic</ph></title>
     <body class="- topic/body ">
         <p class="- topic/p ">Welcome to your first <ph class="- topic/ph " keyref="product"/>.</p>
-        <p class="- topic/p ">You can add images <image class="- topic/image " href="file:/Users/melbs/Desktop/code/newtest/images/welcome.png" id="unique_6_Connect_42_image_j3n_cc1_bpb" nd:nd-id="image_j3n_cc1_bpb" placement="inline" width="100"/> or use reusable content:</p>
+        <p class="- topic/p ">You can add images <image class="- topic/image " href="file:/Users/melbs/Desktop/code/tc3/images/welcome.png" id="unique_6_Connect_42_image_j3n_cc1_bpb" nd:nd-id="image_j3n_cc1_bpb" placement="inline" width="100"/> or use reusable content:</p>
         <note class="- topic/note " id="unique_6_Connect_42_note_rtg_hc1_bpb" nd:nd-id="note_rtg_hc1_bpb">Reusable note.</note>
     </body>
 </topic></map>

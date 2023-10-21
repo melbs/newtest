@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="device_settings">
+    <title>Device Settings</title>
+    <body>
+        <p>Device Settings apply to the managed Chromebook device, which are located in an
+            Organizational Unit. Device Settings can be configured on sets of devices in different
+            sitautions to allow them to act different according to what is needed.</p>
+    </body>
+</topic>

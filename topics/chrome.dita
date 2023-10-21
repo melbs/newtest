@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="chrome">
-    <title>chrome</title>
+    <title>Device Listing page</title>
     <body>
-        <p>chrome stuff</p>
+        <p>The Device Listing page shows all of the managed Chromebooks and allows a Google Admin to
+            perform many management tasks.</p>
     </body>
 </topic>
