@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>topics/apps.html</loc>
-      <lastmod>2023-10-21T05:17:53Z</lastmod>
+      <loc>topics/core_services.html</loc>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
    </url>
    <url>
-      <loc>topics/different_apps.html</loc>
-      <lastmod>2023-10-21T05:17:53Z</lastmod>
+      <loc>topics/organizational_units.html</loc>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
    </url>
    <url>
       <loc>topics/turning_on_a_service.html</loc>
-      <lastmod>2023-10-21T05:17:53Z</lastmod>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
    </url>
    <url>
-      <loc>topics/chrome.html</loc>
-      <lastmod>2023-10-21T05:17:53Z</lastmod>
+      <loc>topics/device_listing_page.html</loc>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
    </url>
    <url>
       <loc>topics/enrolling_a_chromebook.html</loc>
-      <lastmod>2023-10-21T05:17:53Z</lastmod>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/device_settings.html</loc>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/enrollment_setting.html</loc>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
    </url>
    <url>
       <loc>topics/welcome.html</loc>
-      <lastmod>2023-10-21T05:17:53Z</lastmod>
+      <lastmod>2023-10-21T09:04:34Z</lastmod>
    </url>
 </urlset>

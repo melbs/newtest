@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="apps" path="topics/apps.html"/>
-   <appContext helpID="different_apps" path="topics/different_apps.html"/>
+   <appContext helpID="core_services" path="topics/core_services.html"/>
+   <appContext helpID="organizational_units" path="topics/organizational_units.html"/>
    <appContext helpID="turning_on_a_service" path="topics/turning_on_a_service.html"/>
-   <appContext helpID="chrome" path="topics/chrome.html"/>
+   <appContext helpID="device_listing_page" path="topics/device_listing_page.html"/>
    <appContext helpID="enrolling_a_chromebook"
                path="topics/enrolling_a_chromebook.html"/>
+   <appContext helpID="device_settings" path="topics/device_settings.html"/>
+   <appContext helpID="enrollment_setting" path="topics/enrollment_setting.html"/>
    <appContext helpID="welcome" path="topics/welcome.html"/>
 </map>

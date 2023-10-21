@@ -486,7 +486,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/webhelp-responsive</String>
+                                    <String>${cfd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/webhelp-responsive</String>
