@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="user_assign_license">
+    <title>Assign a User License</title>
+    <shortdesc>How to assign licenses to users</shortdesc>
+    <taskbody>
+        <context>How to manually assign a user license in the admin console<p/></context>
+        <steps>
+            <step>
+                <cmd>Go to the admin console</cmd>
+            </step>
+            <step>
+                <cmd>Choose a user</cmd>
+            </step>
+            <step>
+                <cmd>Assign it</cmd>
+            </step>
+            <step>
+                <cmd>Submit</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

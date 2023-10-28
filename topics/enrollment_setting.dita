@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="enrollment_setting">
-    <title>Enrollment Setting</title>
-    <shortdesc>Enrollment Setting<data>setting values are: one, two, three</data></shortdesc>
+    <title>Forced re-enrollment</title>
+    <shortdesc>Specifies whether ChromeOS devices are forced to re-enroll into your account after
+        they’ve been wiped. By default, wiped devices automatically re-enroll into your account
+        without users having to enter their username and password. <data>setting values are: (1.)
+            Force device to automatically re-enroll after wiping (2.) Force device to re-enroll with
+            user credentials after wiping (3.) Device is not forced to re-enroll after
+        wiping</data></shortdesc>
     <refbody> </refbody>
 </reference>

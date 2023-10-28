@@ -1,0 +1,1 @@
+var htmlFileInfoList = ["chrome_user_settings.html@@@Chrome User Settings@@@Chrome User Settings apply to the user and apply on any platform where the user is logged into Chrome...","cshelp.html@@@Context Sensitive Help@@@..."];

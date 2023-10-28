@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="enrolling_a_chromebook">
-    <title>enrolling a chromebook</title>
-    <shortdesc>this is how you enroll a chromebook into your admin console</shortdesc>
+    <title>Enrolling a Chromebook</title>
+    <shortdesc>Enroll ChromeOS devices </shortdesc>
     <taskbody>
-        <context>context goes here<p/></context>
+        <context>To enforce the device policies you set in your Google Admin console, you need to
+            enroll ChromeOS devices. <p/></context>
         <steps>
             <step>
                 <cmd>open your chromebook</cmd>

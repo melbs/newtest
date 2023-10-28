@@ -2,9 +2,16 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="organizational_units">
     <title>Organizational Units</title>
-    <shortdesc>Organizational Unites (OUs) are how you turn on or off a service for
-        users.</shortdesc>
+    <shortdesc>Apply settings to groups of users or devices </shortdesc>
     <conbody>
-        <p>best practice is</p>
+        <p>Initially in your Google Admin console, all your users and devices are placed in a single
+            organizational unit, called the top-level organizational unit. All settings you make in
+            the Admin console apply to this top-level organizational unit and, therefore, to all
+            users and devices in your account. </p>
+        <p>To apply different settings to some users or devices, place them in a child
+            organizational unit, (for example, Finance, Human Resources) below the top level. Users
+            or devices in organizational units get the settings that you apply to them. To keep a
+            child organizational unit from inheriting its parent’s settings, apply to the child any
+            settings that are specific to it. </p>
     </conbody>
 </concept>

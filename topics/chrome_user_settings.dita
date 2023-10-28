@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="chrome_user_settings">
+    <title>Chrome User Settings</title>
+    <shortdesc>Chrome User Settings apply to the user and apply on any platform where the user is
+        logged into Chrome.</shortdesc>
+    <conbody>
+        <p>What makes Chrome Management so effective and easy to manage is that it doesn't matter
+            what device or platform the user is on, the Chrome User Settings follow the user. The
+            user is able to pick up where they ended no matter if it's a brand new out of the box
+            Chromebook or a personal Macbook.</p>
+    </conbody>
+</concept>

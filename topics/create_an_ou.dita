@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_an_ou">
+    <title>Create an Organizational Unit (OU)</title>
+    <shortdesc>How to create a new organizational unit </shortdesc>
+    <taskbody>
+        <context>Create an OU to put users in<p/></context>
+        <steps>
+            <step>
+                <cmd>Sign into your Google Admin Console</cmd>
+            </step>
+            <step>
+                <cmd> In the Admin console, go to Menu > Directory >  Organizational units</cmd>
+            </step>
+            <step>
+                <cmd>Hover over the organization you want to modify and click Create new
+                    organizational unit</cmd>
+            </step>
+            <step>
+                <cmd>In the Name of organizational unit field, enter the new name</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) add a description</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) place under another OU</cmd>
+            </step>
+            <step>
+                <cmd>Click create</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

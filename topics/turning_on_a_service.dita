@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="turning_on_a_service">
-    <title>turning on a service</title>
-    <shortdesc>this is how you turn on a service</shortdesc>
+    <title>Turn a service on or off</title>
+    <shortdesc>Turn a service on or off for Google Workspace users </shortdesc>
     <taskbody>
-        <context>turn on or off a service<p/>first go to the service. there are two kinds of
-            services.</context>
+        <context>As an administrator, you can control who uses which Google services from their
+            account. Just turn the service on or off for those users in your Google Admin console.
+            When users sign in to their account, they have only the services that are turned on for
+            them. </context>
         <steps>
             <step>
-                <cmd>click on the OU</cmd>
+                <cmd>Sign in to your Google Admin console.</cmd>
             </step>
             <step>
-                <cmd>enable</cmd>
+                <cmd>In the Admin console, go to Menu > Google Workspace > Service status. </cmd>
             </step>
             <step>
-                <cmd>click save</cmd>
+                <cmd>Click the service that you want to turn on or off. </cmd>
+            </step>
+            <step>
+                <cmd>Click Service status</cmd>
+            </step>
+            <step>
+                <cmd>Click on or off</cmd>
             </step>
         </steps>
     </taskbody>

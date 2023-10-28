@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_to_google_workspace_admin_console">
+    <title>Introduction to Google Workspace Admin Console</title>
+    <shortdesc>Brief overview of what the Google Workspace Admin Console is for Google admins. </shortdesc>
+    <conbody>
+        <p>Easily add users, manage devices, and configure security and settings so your data stays
+            safe. Administration shouldn't need a manual. </p>
+    </conbody>
+</concept>
