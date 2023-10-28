@@ -7,6 +7,7 @@
         <topicref href="topics/turning_on_a_service.dita"/>
     </topicref>
     <topicref href="topics/device_listing_page.dita">
+        <topicref href="topics/wipe_chromebook.dita"/>
         <topicref href="topics/enrolling_a_chromebook.dita"/>
     </topicref>
     <topicref href="topics/device_settings.dita">

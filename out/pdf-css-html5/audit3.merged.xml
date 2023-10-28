@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">audit3</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">audit3</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="core_services"><resourceid appid="core_services" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Core Services</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="organizational_units"><resourceid appid="organizational_units" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Organizational Units</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Organizational Unites (OUs) are how you turn on or off a service for         users.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="turning_on_a_service"><resourceid appid="turning_on_a_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">turning on a service</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">this is how you turn on a service</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="device_listing_page"><resourceid appid="device_listing_page" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Device Listing Page</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Remotely Wiping a Chromebook</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Wiping a Chromebook</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="enrolling_a_chromebook"><resourceid appid="enrolling_a_chromebook" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">enrolling a chromebook</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">this is how you enroll a chromebook into your admin console</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="device_settings"><resourceid appid="device_settings" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Device Settings</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="enrollment_setting"><resourceid appid="enrollment_setting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Enrollment Setting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Enrollment Setting<data class="- topic/data ">setting values are: one, two, three</data></shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="core_services" oid="core_services" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Core Services</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Google Workspace Core Services are the heart of Google's educational free offering to
+            schools. The Core Services are: AppSheet, Assignments, Calendar, Classroom, Cloud
+            Search, Drive and Docs, Gmail, Google Chat, Google Meet, Google Vault, Groups for
+            Business, Keep, Tasks.</p>
+        <p class="- topic/p ">Core Services within a Google for Education Workspace domain are important due to
+            specific terms of services abiding by children protection laws. Core Services can be
+            enabled or disabled by Organization Unit or Group.</p>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="organizational_units" oid="organizational_units" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Organizational Units</ph></title>
+    <shortdesc class="- topic/shortdesc ">Organizational Unites (OUs) are how you turn on or off a service for
+        users.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">best practice is</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="turning_on_a_service" oid="turning_on_a_service" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">turning on a service</ph></title>
+    <shortdesc class="- topic/shortdesc ">this is how you turn on a service</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">turn on or off a service<p class="- topic/p "/>first go to the service. there are two kinds of
+            services.</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">click on the OU</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">enable</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">click save</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="device_listing_page" oid="device_listing_page" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Device Listing Page</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">The device listing page is where you can view all managed chromebooks and allows the
+            admin to do lots of management tasks.</p>
+    </body>
+<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Remotely Wiping a Chromebook</ph></title>
+    <shortdesc class="- topic/shortdesc ">Wiping a Chromebook</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Google Admins can remotely wipe a Chromebook from within the admin
+            console.<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to: admin.google.com</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to device listing page</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select a Chromebook and go into the device record</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the wipe button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="enrolling_a_chromebook" oid="enrolling_a_chromebook" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">enrolling a chromebook</ph></title>
+    <shortdesc class="- topic/shortdesc ">this is how you enroll a chromebook into your admin console</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">context goes here<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">open your chromebook</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">do the key combo</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">enter in the wifi</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">log in with this un/pwd</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">wait for a bit</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">make sure you reboot</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="device_settings" oid="device_settings" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Device Settings</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Device Settings apply to the managed Chromebook device, which are located in an
+            Organizational Unit. Device Settings can be configured on sets of devices in different
+            sitautions to allow them to act different according to what is needed.</p>
+    </body>
+<reference class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="enrollment_setting" oid="enrollment_setting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Enrollment Setting</ph></title>
+    <shortdesc class="- topic/shortdesc ">Enrollment Setting<data class="- topic/data ">setting values are: one, two, three</data></shortdesc>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference></topic></map>

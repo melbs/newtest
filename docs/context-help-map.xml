@@ -4,6 +4,7 @@
    <appContext helpID="organizational_units" path="topics/organizational_units.html"/>
    <appContext helpID="turning_on_a_service" path="topics/turning_on_a_service.html"/>
    <appContext helpID="device_listing_page" path="topics/device_listing_page.html"/>
+   <appContext helpID="Untitled" path="topics/wipe_chromebook.html"/>
    <appContext helpID="enrolling_a_chromebook"
                path="topics/enrolling_a_chromebook.html"/>
    <appContext helpID="device_settings" path="topics/device_settings.html"/>

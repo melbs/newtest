@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Remotely Wiping a Chromebook</title>
+    <shortdesc>Wiping a Chromebook</shortdesc>
+    <taskbody>
+        <context>Google Admins can remotely wipe a Chromebook from within the admin
+            console.<p/></context>
+        <steps>
+            <step>
+                <cmd>Go to: admin.google.com</cmd>
+            </step>
+            <step>
+                <cmd>Go to device listing page</cmd>
+            </step>
+            <step>
+                <cmd>Select a Chromebook and go into the device record</cmd>
+            </step>
+            <step>
+                <cmd>Click the wipe button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
