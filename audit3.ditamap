@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>audit3</title>
+    <title>Audit</title>
     <topicref href="topics/core_services.dita">
         <topicref href="topics/organizational_units.dita"/>
         <topicref href="topics/turning_on_a_service.dita"/>
