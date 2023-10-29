@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Configure Age-Based Setting Access</title>
+    <shortdesc>Set age-based access to Google services </shortdesc>
+    <taskbody>
+        <context>You can designate your users’ age level in the Admin console. If you don’t, all
+            users without an age designation get the default experience for your institution
+            type.<p/></context>
+        <steps>
+            <step>
+                <cmd>Sign into the Admin Console</cmd>
+            </step>
+            <step>
+                <cmd>From the Admin console Home page, click Account settings > Age-based access
+                    settings.</cmd>
+            </step>
+            <step>
+                <cmd> To apply the setting to everyone, leave the top organizational unit selected.
+                    Otherwise, select a child organizational unit or a configuration group. For
+                    Choose an appropriate age label, choose an option: Some or all users are under
+                    18 years of age  or All users are 18 or older </cmd>
+            </step>
+            <step>
+                <cmd> Click Save. If you configured an organizational unit or group, you might be
+                    able to either Inherit or Override a parent organizational unit, or Unset a
+                    group. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

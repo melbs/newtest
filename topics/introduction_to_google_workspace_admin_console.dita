@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="introduction_to_google_workspace_admin_console">
-    <title>Introduction to Google Workspace Admin Console</title>
-    <shortdesc>Brief overview of what the Google Workspace Admin Console is for Google admins. </shortdesc>
+    <title>Getting Started with the Google for Education Admin Console</title>
+    <shortdesc>Google for Education Admin Console</shortdesc>
     <conbody>
-        <p>Easily add users, manage devices, and configure security and settings so your data stays
-            safe. Administration shouldn't need a manual. </p>
+        <p><b>Google Workspace for Education</b> is a set of Google tools and services that are tailored
+            for schools and homeschools to collaborate, streamline instruction, and keep learning
+            safe. Google Workspace for Education offers multiple options to meet your organization’s
+            needs.</p>
+        <p>Google Workspace for Education provides a suite of cloud-based tools to K–12 and
+            higher-education institutions and U.S. homeschools. The tools and services include
+            messaging and collaboration apps, such as Gmail, Google Drive, Google Calendar,
+            Classroom, and so on. </p>
+        <p>If your school has sophisticated IT needs, consider Google Workspace for Education Plus.
+            It has additional enterprise-grade capabilities, such as advanced controls for
+            administrators and enhanced analytics. </p>
+        <p>The Google Admin console has over 1,000 settings that are often misconfigured making it
+            difficult for administrators to keep the domain secure and for teachers and students to
+            leverage available tools. Your institution doesn’t want to discover that their data and
+            information isn’t safe by experiencing a cybersecurity attack or manage users challenged
+            by limited app access during a critical time. The Google for Education Audit is a
+            comprehensive report that analyzes your existing configurations for core services and
+            third-party tools to assess their operational efficiency and effectiveness.
+            Recommendations and details on how to implement changes are then provided to align your
+            domain with EDU best practices and improve your institution’s security, compliance,
+            adoption, and usage. </p>
     </conbody>
 </concept>

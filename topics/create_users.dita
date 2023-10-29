@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="create_users">
-    <title>Create users</title>
-    <shortdesc>Add an account for a new user</shortdesc>
+    <title>Create a user</title>
+    <shortdesc>Create a user account</shortdesc>
     <taskbody>
         <context>Each person who will be using Google services (like Google Workspace or Cloud
             Identity) with your organization needs an account. If you haven't already added users to
-            your Admin console, you can do that now. </context>
+            your Admin console, you can do that now.</context>
         <steps>
             <step>
                 <cmd>Sign into your Google Admin Console</cmd>

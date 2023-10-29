@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="ou_faqs">
+    <title>FAQs</title>
+    <shortdesc>Frequently asked questions about the admin console</shortdesc>
+    <troublebody><troubleSolution><cause>
+                <p>this is text</p>
+                <p>Hello</p>
+                <p>Test</p>
+                <p/>
+            </cause>
+            <cause id="cause_ynd_215_gzb">
+                <p>new cause</p>
+                <p/>
+                <codeblock id="codeblock_wns_f15_gzb">code block test
+</codeblock>
+            </cause></troubleSolution></troublebody>
+</troubleshooting>

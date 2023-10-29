@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="core_services">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="core_services">
     <title>Core Services</title>
-    <body>
+    <conbody>
         <p>Google Workspace Core Services are the heart of Google's educational free offering to
             schools. The Core Services are: AppSheet, Assignments, Calendar, Classroom, Cloud
             Search, Drive and Docs, Gmail, Google Chat, Google Meet, Google Vault, Groups for
@@ -10,5 +10,5 @@
         <p>Core Services within a Google for Education Workspace domain are important due to
             specific terms of services abiding by children protection laws. Core Services can be
             enabled or disabled by Organization Unit or Group.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

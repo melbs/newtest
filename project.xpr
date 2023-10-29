@@ -130,7 +130,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/chrome_user_settings.dita</String>
+                                    <String>audit3.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -150,7 +150,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>audit3.ditamap</String>
+                                    <String>topics/chrome_user_settings.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

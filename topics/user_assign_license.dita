@@ -7,16 +7,26 @@
         <context>How to manually assign a user license in the admin console<p/></context>
         <steps>
             <step>
-                <cmd>Go to the admin console</cmd>
+                <cmd>Sign into the admin console</cmd>
             </step>
             <step>
-                <cmd>Choose a user</cmd>
+                <cmd>In the Admin console, go to Menu > Directory > Users. </cmd>
             </step>
             <step>
-                <cmd>Assign it</cmd>
+                <cmd>Click the name of the user you want to manage.</cmd>
             </step>
             <step>
-                <cmd>Submit</cmd>
+                <cmd>Scroll down and click the user’s License section. </cmd>
+            </step>
+            <step>
+                <cmd>Click any service to display the on/off switches in the Status column. </cmd>
+            </step>
+            <step>
+                <cmd>Next to a service, in the Status column, click the switch to assign or remove a
+                    license. </cmd>
+            </step>
+            <step>
+                <cmd>Click Save. </cmd>
             </step>
         </steps>
     </taskbody>

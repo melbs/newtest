@@ -2,15 +2,17 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Google Workspace Admin Console (Audit)</title>
-    <topicref href="topics/introduction_to_google_workspace_admin_console.dita"/>
+    <topicref href="topics/introduction_to_google_workspace_admin_console.dita">
+        <topicref href="topics/faqs.dita"/>
+    </topicref>
     <topicref href="topics/directory.dita">
         <topicref href="topics/users.dita">
+            <topicref href="topics/set_age_based_access.dita"/>
             <topicref href="topics/user_assign_license.dita"/>
             <topicref href="topics/create_users.dita"/>
         </topicref>
         <topicref href="topics/organizational_units.dita">
             <topicref href="topics/create_an_ou.dita"/>
-            <topicref href="topics/ou_faqs.dita"/>
         </topicref>
         <topicref href="topics/groups.dita">
             <topicref href="topics/create_a_group.dita"/>

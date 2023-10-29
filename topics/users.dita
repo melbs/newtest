@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="users">
-    <title>Users</title>
-    <shortdesc>Overview of user management</shortdesc>
+    <title>User Management</title>
+    <shortdesc>Overview of managing users in the Admin Console</shortdesc>
     <conbody>
-        <p></p>
+        <p>Managing users in the admin console is one of the most common responsibilities for a
+            Google Admin. You can view and do a lot of common tasks from the <xref href="https://admin.google.com/ac/users?hl=en" scope="external" format="html">main user listing page</xref>xref>.</p>
+        <p>It is also important that admins have properly assigned users as over 18 and under 18 as
+            that will impact what configurations users get.</p>
     </conbody>
 </concept>
