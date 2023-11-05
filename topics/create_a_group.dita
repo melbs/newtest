@@ -4,24 +4,20 @@
     <title>Create a group</title>
     <shortdesc>Create a group</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>As a Groups administrator, you can create groups for departments, teams, or other
+            sets of users in your organization. </context>
         <steps>
             <step>
-                <cmd>Go to the admin console</cmd>
+                <cmd>Sign into your <b>Admin Console</b></cmd>
             </step>
             <step>
-                <cmd>Go into Groups</cmd>
+                <cmd>In the Admin console, go to Menu > Directory > Groups</cmd>
             </step>
             <step>
-                <cmd>Click add group</cmd>
+                <cmd>At the top, click <b>Create group</b>.</cmd>
             </step>
             <step>
-                <cmd>Add group name</cmd>
-            </step>
-            <step>
-                <cmd>Click submit</cmd>
+                <cmd>Click <b>Submit</b></cmd>
             </step>
         </steps>
     </taskbody>

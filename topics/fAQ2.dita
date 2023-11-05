@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Untitled">
+    <title>FAQs</title>
+    <shortdesc>Common Google Admin questions</shortdesc>
+    <refbody>
+        <properties frame="all" id="properties_fbc_lbs_3zb">
+            <prophead>
+                <proptypehd>Question</proptypehd>
+                <propvaluehd>Answer</propvaluehd>
+            </prophead>
+            <property>
+                <proptype>What is Google Workspace for Education?</proptype>
+                <propvalue>Google Workspace for Education is a set of Google tools and services that
+                    are tailored for schools and homeschools. It is available to all educational
+                    institutions that qualify. </propvalue>
+            </property>
+            <property>
+                <proptype>How much is Google Workspace for Education?</proptype>
+                <propvalue>Google Workspace for Education Fundamentals is free to qualified
+                    educational institutions. Google Workspace for Education Standard, Education
+                    Plus, and Teaching and Learning Upgrade are paid subscriptions. </propvalue>
+            </property>
+            <property>
+                <proptype>How much storage do users get with Google Workspace for
+                    Education?</proptype>
+                <propvalue>All Education editions have a baseline of 100 TB of pooled storage shared
+                    across the institution.</propvalue>
+            </property>
+        </properties>
+    </refbody>
+</reference>

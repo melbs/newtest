@@ -2,6 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="core_services">
     <title>Core Services</title>
+    <shortdesc>There are 17 core services that have unique TOS</shortdesc>
     <conbody>
         <p>Google Workspace Core Services are the heart of Google's educational free offering to
             schools. The Core Services are: AppSheet, Assignments, Calendar, Classroom, Cloud

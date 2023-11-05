@@ -5,7 +5,7 @@
     <shortdesc>Overview of managing users in the Admin Console</shortdesc>
     <conbody>
         <p>Managing users in the admin console is one of the most common responsibilities for a
-            Google Admin. You can view and do a lot of common tasks from the <xref href="https://admin.google.com/ac/users?hl=en" scope="external" format="html">main user listing page</xref>xref>.</p>
+            Google Admin. You can view and do a lot of common tasks from the <xref href="https://admin.google.com/ac/users?hl=en" scope="external" format="html">main user listing page</xref>.</p>
         <p>It is also important that admins have properly assigned users as over 18 and under 18 as
             that will impact what configurations users get.</p>
     </conbody>

@@ -12,8 +12,8 @@
                 <cmd>Sign into the Admin Console</cmd>
             </step>
             <step>
-                <cmd>From the Admin console Home page, click Account settings > Age-based access
-                    settings.</cmd>
+                <cmd>From the Admin console Home page, click <b>Account settings > Age-based access
+                        settings</b>.</cmd>
             </step>
             <step>
                 <cmd> To apply the setting to everyone, leave the top organizational unit selected.
@@ -22,10 +22,16 @@
                     18 years of age  or All users are 18 or older </cmd>
             </step>
             <step>
-                <cmd> Click Save. If you configured an organizational unit or group, you might be
-                    able to either Inherit or Override a parent organizational unit, or Unset a
-                    group. </cmd>
+                <cmd>
+                        <image href="../images/agebased.png"></image>
+                </cmd>
+            </step>
+            <step>
+                <cmd> Click <b>Save</b>. If you configured an organizational unit or group, you
+                    might be able to either Inherit or Override a parent organizational unit, or
+                    Unset a group. </cmd>
             </step>
         </steps>
+        
     </taskbody>
 </task>

@@ -10,7 +10,7 @@
             them. </context>
         <steps>
             <step>
-                <cmd>Sign in to your Google Admin console.</cmd>
+                <cmd>Sign in to your <b>Google Admin console.</b></cmd>
             </step>
             <step>
                 <cmd>In the Admin console, go to Menu > Google Workspace > Service status. </cmd>
@@ -19,10 +19,10 @@
                 <cmd>Click the service that you want to turn on or off. </cmd>
             </step>
             <step>
-                <cmd>Click Service status</cmd>
+                <cmd>Click <b>Service status</b></cmd>
             </step>
             <step>
-                <cmd>Click on or off</cmd>
+                <cmd>Click <b>on</b> or <b>off</b></cmd>
             </step>
         </steps>
     </taskbody>

@@ -2,7 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="chrome_management">
     <title>Chrome Management</title>
+    <shortdesc>Chrome User and Device Management</shortdesc>
     <body>
-        <p></p>
+        <p>Enroll a test device, set some policies, and more, using our interactive walkthrough.
+            This is a safe space to explore and test ChromeOS management. </p>
     </body>
 </topic>

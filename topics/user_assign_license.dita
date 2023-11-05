@@ -10,7 +10,8 @@
                 <cmd>Sign into the admin console</cmd>
             </step>
             <step>
-                <cmd>In the Admin console, go to Menu > Directory > Users. </cmd>
+                <cmd>In the Admin console, go to <b>Menu > Directory > Users.</b>
+                </cmd>
             </step>
             <step>
                 <cmd>Click the name of the user you want to manage.</cmd>
@@ -26,7 +27,7 @@
                     license. </cmd>
             </step>
             <step>
-                <cmd>Click Save. </cmd>
+                <cmd>Click <b>Save</b>. </cmd>
             </step>
         </steps>
     </taskbody>

@@ -12,10 +12,10 @@
                 <cmd>Sign into your Google Admin Console</cmd>
             </step>
             <step>
-                <cmd> In the Admin console, go to Menu > Directory > Users</cmd>
+                <cmd> In the Admin console, go to <b>Menu > Directory > Users</b></cmd>
             </step>
             <step>
-                <cmd>At the top of the page, click Add new user</cmd>
+                <cmd>At the top of the page, click <b>Add new user</b></cmd>
             </step>
             <step>
                 <cmd>Add in the user details</cmd>

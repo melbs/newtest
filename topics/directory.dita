@@ -2,9 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="directory">
     <title>Directory</title>
+    <shortdesc>Users, Groups, OUs and Settings</shortdesc>
     <body>
         <p>The directory section of the admin console contains: Users, Groups, Organizational Units
             and Directory Settings.</p>
-        <image href="../images/directory.png" alt="directory tree"></image>
     </body>
 </topic>

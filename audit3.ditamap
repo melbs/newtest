@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Google Workspace Admin Console (Audit)</title>
+    <title>Google Workspace Admin Console</title>
     <topicref href="topics/introduction_to_google_workspace_admin_console.dita">
-        <topicref href="topics/faqs.dita"/>
+        <topicref href="topics/fAQ2.dita"/>
     </topicref>
     <topicref href="topics/directory.dita">
         <topicref href="topics/users.dita">
@@ -22,11 +22,11 @@
         <topicref href="topics/drive.dita"/>
         <topicref href="topics/turning_on_a_service.dita"/>
     </topicref>
-    <topicref href="topics/device_listing_page.dita">
-        <topicref href="topics/wipe_chromebook.dita"/>
-        <topicref href="topics/enrolling_a_chromebook.dita"/>
-    </topicref>
     <topicref href="topics/chrome_management.dita">
+        <topicref href="topics/device_listing_page.dita">
+            <topicref href="topics/wipe_chromebook.dita"/>
+            <topicref href="topics/enrolling_a_chromebook.dita"/>
+        </topicref>
         <topicref href="topics/device_settings.dita">
             <topicref href="topics/enrollment_setting.dita"/>
         </topicref>

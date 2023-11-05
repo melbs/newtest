@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"organizational_units-d277e86":{"topics":[{"title":"Create an Organizational Unit (OU)","shortdesc":"<p class=\"shortdesc\">How to create a new organizational unit <\/p>","href":"topics\/create_an_ou.html","attributes":{"data-id":"create_an_ou"},"menu":{"hasChildren":false},"tocID":"create_an_ou-d277e97","topics":[]}]}};

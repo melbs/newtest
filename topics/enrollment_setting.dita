@@ -4,9 +4,25 @@
     <title>Forced re-enrollment</title>
     <shortdesc>Specifies whether ChromeOS devices are forced to re-enroll into your account after
         they’ve been wiped. By default, wiped devices automatically re-enroll into your account
-        without users having to enter their username and password. <data>setting values are: (1.)
-            Force device to automatically re-enroll after wiping (2.) Force device to re-enroll with
-            user credentials after wiping (3.) Device is not forced to re-enroll after
-        wiping</data></shortdesc>
-    <refbody> </refbody>
+        without users having to enter their username and password.</shortdesc>
+    <refbody>
+        <properties frame="all" id="properties_mzp_fds_3zb">
+            <prophead>
+                <proptypehd>Setting</proptypehd>
+                <propvaluehd>Values</propvaluehd>
+            </prophead>
+            <property>
+                <proptype>Forced enrollment</proptype>
+                <propvalue>setting values are: (1.) Force device to automatically re-enroll after
+                    wiping (2.) Force device to re-enroll with user credentials after wiping (3.)
+                    Device is not forced to re-enroll after wiping</propvalue>
+            </property>
+            <property>
+                <proptype>Considerations</proptype>
+                <propvalue>Don’t force ChromeOS devices that are used in developer mode to
+                    re-enroll. Instead, put them in a different organizational unit and turn off
+                    forced re-enrollment for that organization. </propvalue>
+            </property>
+        </properties>
+    </refbody>
 </reference>

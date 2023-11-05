@@ -10,11 +10,12 @@
                 <cmd>Sign into your Google Admin Console</cmd>
             </step>
             <step>
-                <cmd> In the Admin console, go to Menu > Directory >  Organizational units</cmd>
+                <cmd> In the Admin console, go to <b>Menu > Directory > Organizational
+                    units</b></cmd>
             </step>
             <step>
-                <cmd>Hover over the organization you want to modify and click Create new
-                    organizational unit</cmd>
+                <cmd>Hover over the organization you want to modify and click <i><b>Create new
+                            organizational unit</b></i></cmd>
             </step>
             <step>
                 <cmd>In the Name of organizational unit field, enter the new name</cmd>
@@ -26,7 +27,7 @@
                 <cmd>(Optional) place under another OU</cmd>
             </step>
             <step>
-                <cmd>Click create</cmd>
+                <cmd>Click <b>create</b></cmd>
             </step>
         </steps>
     </taskbody>
