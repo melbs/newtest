@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Google Workspace Admin Console</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Google Workspace Admin Console</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction_to_google_workspace_admin_console"><resourceid appid="introduction_to_google_workspace_admin_console" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Getting Started with the Google for Education Admin Console</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Google for Education Admin Console</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">FAQs</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Common Google Admin questions</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="directory"><resourceid appid="directory" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Directory</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Users, Groups, OUs and Settings</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="users"><resourceid appid="users" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">User Management</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Overview of managing users in the Admin Console</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Configure Age-Based Setting Access</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Set age-based access to Google services </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="user_assign_license"><resourceid appid="user_assign_license" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Assign a User License</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to assign licenses to users</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_users"><resourceid appid="create_users" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Create a user</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Create a user account</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="organizational_units"><resourceid appid="organizational_units" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Organizational Units</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Apply settings to groups of users or devices </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_an_ou"><resourceid appid="create_an_ou" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Create an Organizational Unit (OU)</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to create a new organizational unit </shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="groups"><resourceid appid="groups" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Groups</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_a_group"><resourceid appid="create_a_group" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Create a group</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Create a group</shortdesc></topicmeta></topicref></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="core_services"><resourceid appid="core_services" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Core Services</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">There are 17 core services that have unique TOS</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_13" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="drive"><resourceid appid="drive" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Google Drive</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="turning_on_a_service"><resourceid appid="turning_on_a_service" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Turn a service on or off</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Turn a service on or off for Google Workspace users </shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_15" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="chrome_management"><resourceid appid="chrome_management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Chrome Management</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Chrome User and Device Management</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_16" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="device_listing_page"><resourceid appid="device_listing_page" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Chrome Device Management</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Remotely Wiping a Chromebook</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Wiping a Chromebook</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_18" type="task"><topicmeta class="- map/topicmeta " data-topic-id="enrolling_a_chromebook"><resourceid appid="enrolling_a_chromebook" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Enrolling a Chromebook</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Enroll ChromeOS devices </shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_19" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="device_settings"><resourceid appid="device_settings" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Device Settings</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_20" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="enrollment_setting"><resourceid appid="enrollment_setting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Forced re-enrollment</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Specifies whether ChromeOS devices are forced to re-enroll into your account after         they’ve been wiped. By default, wiped devices automatically re-enroll into your account         without users having to enter their username and password.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_21" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="chrome_user_settings"><resourceid appid="chrome_user_settings" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Chrome User Settings</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Chrome User Settings apply to the user and apply on any platform where the user is         logged into Chrome.</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction_to_google_workspace_admin_console" oid="introduction_to_google_workspace_admin_console" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Getting Started with the Google for Education Admin Console</ph></title>
+    <shortdesc class="- topic/shortdesc ">Google for Education Admin Console</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Google Workspace for Education</b> is a set of Google tools and services that are tailored
+            for schools and homeschools to collaborate, streamline instruction, and keep learning
+            safe. Google Workspace for Education offers multiple options to meet your organization’s
+            needs.</p>
+        <p class="- topic/p ">Google Workspace for Education provides a suite of cloud-based tools to K–12 and
+            higher-education institutions and U.S. homeschools. The tools and services include
+            messaging and collaboration apps, such as Gmail, Google Drive, Google Calendar,
+            Classroom, and so on. </p>
+        <p class="- topic/p ">If your school has sophisticated IT needs, consider Google Workspace for Education Plus.
+            It has additional enterprise-grade capabilities, such as advanced controls for
+            administrators and enhanced analytics. </p>
+        <p class="- topic/p ">The Google Admin console has over 1,000 settings that are often misconfigured making it
+            difficult for administrators to keep the domain secure and for teachers and students to
+            leverage available tools. Your institution doesn’t want to discover that their data and
+            information isn’t safe by experiencing a cybersecurity attack or manage users challenged
+            by limited app access during a critical time. The Google for Education Audit is a
+            comprehensive report that analyzes your existing configurations for core services and
+            third-party tools to assess their operational efficiency and effectiveness.
+            Recommendations and details on how to implement changes are then provided to align your
+            domain with EDU best practices and improve your institution’s security, compliance,
+            adoption, and usage. </p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">FAQs</ph></title>
+    <shortdesc class="- topic/shortdesc ">Common Google Admin questions</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <properties class="- topic/simpletable reference/properties " frame="all" id="unique_2_Connect_42_properties_fbc_lbs_3zb" nd:nd-id="properties_fbc_lbs_3zb">
+            <prophead class="- topic/sthead      reference/prophead ">
+                <proptypehd class="- topic/stentry     reference/proptypehd " dita-ot:x="1" dita-ot:y="1">Question</proptypehd>
+                <propvaluehd class="- topic/stentry     reference/propvaluehd " dita-ot:x="2" dita-ot:y="1">Answer</propvaluehd>
+            </prophead>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="2">What is Google Workspace for Education?</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="2">Google Workspace for Education is a set of Google tools and services that
+                    are tailored for schools and homeschools. It is available to all educational
+                    institutions that qualify. </propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="3">How much is Google Workspace for Education?</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="3">Google Workspace for Education Fundamentals is free to qualified
+                    educational institutions. Google Workspace for Education Standard, Education
+                    Plus, and Teaching and Learning Upgrade are paid subscriptions. </propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="4">How much storage do users get with Google Workspace for
+                    Education?</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="4">All Education editions have a baseline of 100 TB of pooled storage shared
+                    across the institution.</propvalue></property>
+        </properties>
+    </refbody>
+</reference></concept><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="directory" oid="directory" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Directory</ph></title>
+    <shortdesc class="- topic/shortdesc ">Users, Groups, OUs and Settings</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">The directory section of the admin console contains: Users, Groups, Organizational Units
+            and Directory Settings.</p>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="users" oid="users" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">User Management</ph></title>
+    <shortdesc class="- topic/shortdesc ">Overview of managing users in the Admin Console</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Managing users in the admin console is one of the most common responsibilities for a
+            Google Admin. You can view and do a lot of common tasks from the <xref class="- topic/xref " format="html" href="https://admin.google.com/ac/users?hl=en" scope="external"><?ditaot usertext?>main user listing page</xref>.</p>
+        <p class="- topic/p ">It is also important that admins have properly assigned users as over 18 and under 18 as
+            that will impact what configurations users get.</p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Configure Age-Based Setting Access</ph></title>
+    <shortdesc class="- topic/shortdesc ">Set age-based access to Google services </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">You can designate your users’ age level in the Admin console. If you don’t, all
+            users without an age designation get the default experience for your institution
+            type.<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into the Admin Console</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From the Admin console Home page, click <b class="+ topic/ph hi-d/b ">Account settings &gt; Age-based access
+                        settings</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> To apply the setting to everyone, leave the top organizational unit selected.
+                    Otherwise, select a child organizational unit or a configuration group. For
+                    Choose an appropriate age label, choose an option: Some or all users are under
+                    18 years of age  or All users are 18 or older </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">
+                        <image class="- topic/image " dita-ot:image-width="2200" dita-ot:image-height="912" href="file:/Users/melbs/Desktop/code/tc3/images/agebased.png" placement="inline"/>
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Click <b class="+ topic/ph hi-d/b ">Save</b>. If you configured an organizational unit or group, you
+                    might be able to either Inherit or Override a parent organizational unit, or
+                    Unset a group. </cmd>
+            </step>
+        </steps>
+        
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="user_assign_license" oid="user_assign_license" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Assign a User License</ph></title>
+    <shortdesc class="- topic/shortdesc ">How to assign licenses to users</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">How to manually assign a user license in the admin console<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into the admin console</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Admin console, go to <b class="+ topic/ph hi-d/b ">Menu &gt; Directory &gt; Users.</b>
+                </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the name of the user you want to manage.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Scroll down and click the user’s License section. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click any service to display the on/off switches in the Status column. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Next to a service, in the Status column, click the switch to assign or remove a
+                    license. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save</b>. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="create_users" oid="create_users" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Create a user</ph></title>
+    <shortdesc class="- topic/shortdesc ">Create a user account</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Each person who will be using Google services (like Google Workspace or Cloud
+            Identity) with your organization needs an account. If you haven't already added users to
+            your Admin console, you can do that now.</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into your Google Admin Console</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> In the Admin console, go to <b class="+ topic/ph hi-d/b ">Menu &gt; Directory &gt; Users</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">At the top of the page, click <b class="+ topic/ph hi-d/b ">Add new user</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add in the user details</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Repeat these steps for more users</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="organizational_units" oid="organizational_units" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Organizational Units</ph></title>
+    <shortdesc class="- topic/shortdesc ">Apply settings to groups of users or devices </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Initially in your Google Admin console, all your users and devices are placed in a single
+            organizational unit, called the top-level organizational unit. All settings you make in
+            the Admin console apply to this top-level organizational unit and, therefore, to all
+            users and devices in your account. </p>
+        <p class="- topic/p ">To apply different settings to some users or devices, place them in a child
+            organizational unit, (for example, Finance, Human Resources) below the top level. Users
+            or devices in organizational units get the settings that you apply to them. To keep a
+            child organizational unit from inheriting its parent’s settings, apply to the child any
+            settings that are specific to it. </p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="create_an_ou" oid="create_an_ou" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Create an Organizational Unit (OU)</ph></title>
+    <shortdesc class="- topic/shortdesc ">How to create a new organizational unit </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Create an OU to put users in<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into your Google Admin Console</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> In the Admin console, go to <b class="+ topic/ph hi-d/b ">Menu &gt; Directory &gt; Organizational
+                    units</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Hover over the organization you want to modify and click <i class="+ topic/ph hi-d/i "><b class="+ topic/ph hi-d/b ">Create new
+                            organizational unit</b></i></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Name of organizational unit field, enter the new name</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) add a description</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) place under another OU</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">create</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><topic class="- topic/topic " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="groups" oid="groups" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Groups</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Get started managing groups for an organization </p>
+        <p class="- topic/p ">With Google Workspace, your organization can use groups to easily communicate and
+            collaborate across teams. As an administrator, you can also use groups to configure
+            features and services for different groups of users. </p>
+    </body>
+<task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="create_a_group" oid="create_a_group" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Create a group</ph></title>
+    <shortdesc class="- topic/shortdesc ">Create a group</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">As a Groups administrator, you can create groups for departments, teams, or other
+            sets of users in your organization. </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign into your <b class="+ topic/ph hi-d/b ">Admin Console</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Admin console, go to Menu &gt; Directory &gt; Groups</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">At the top, click <b class="+ topic/ph hi-d/b ">Create group</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Submit</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></topic><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="core_services" oid="core_services" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Core Services</ph></title>
+    <shortdesc class="- topic/shortdesc ">There are 17 core services that have unique TOS</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Google Workspace Core Services are the heart of Google's educational free offering to
+            schools. The Core Services are: AppSheet, Assignments, Calendar, Classroom, Cloud
+            Search, Drive and Docs, Gmail, Google Chat, Google Meet, Google Vault, Groups for
+            Business, Keep, Tasks.</p>
+        <p class="- topic/p ">Core Services within a Google for Education Workspace domain are important due to
+            specific terms of services abiding by children protection laws. Core Services can be
+            enabled or disabled by Organization Unit or Group.</p>
+    </conbody>
+<topic class="- topic/topic " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="drive" oid="drive" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Google Drive</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Store, access, and share your files in one secure place </p>
+        <p class="- topic/p "/>
+    </body>
+</topic><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="turning_on_a_service" oid="turning_on_a_service" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Turn a service on or off</ph></title>
+    <shortdesc class="- topic/shortdesc ">Turn a service on or off for Google Workspace users </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">As an administrator, you can control who uses which Google services from their
+            account. Just turn the service on or off for those users in your Google Admin console.
+            When users sign in to their account, they have only the services that are turned on for
+            them. </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sign in to your <b class="+ topic/ph hi-d/b ">Google Admin console.</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Admin console, go to Menu &gt; Google Workspace &gt; Service status. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the service that you want to turn on or off. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Service status</b></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">on</b> or <b class="+ topic/ph hi-d/b ">off</b></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="chrome_management" oid="chrome_management" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Chrome Management</ph></title>
+    <shortdesc class="- topic/shortdesc ">Chrome User and Device Management</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Enroll a test device, set some policies, and more, using our interactive walkthrough.
+            This is a safe space to explore and test ChromeOS management. </p>
+    </body>
+<topic class="- topic/topic " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="device_listing_page" oid="device_listing_page" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Chrome Device Management</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">As a school administrator, you can deploy enterprise or education features for Chrome
+            users across a range of devices. </p>
+        <bodydiv class="- topic/bodydiv "/>
+    </body>
+<task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Remotely Wiping a Chromebook</ph></title>
+    <shortdesc class="- topic/shortdesc ">Wiping a Chromebook</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Google Admins can remotely wipe a Chromebook from within the admin
+            console.<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to: admin.google.com</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to device listing page</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select a Chromebook and go into the device record</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the wipe button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="enrolling_a_chromebook" oid="enrolling_a_chromebook" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Enrolling a Chromebook</ph></title>
+    <shortdesc class="- topic/shortdesc ">Enroll ChromeOS devices </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">To enforce the device policies you set in your Google Admin console, you need to
+            enroll ChromeOS devices. <p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">open your chromebook</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">do the key combo</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">enter in the wifi</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">log in with this un/pwd</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">wait for a bit</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">make sure you reboot</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="- topic/topic " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="device_settings" oid="device_settings" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Device Settings</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Device Settings apply to the managed Chromebook device, which are located in an
+            Organizational Unit. Device Settings can be configured on sets of devices in different
+            sitautions to allow them to act different according to what is needed.</p>
+    </body>
+<reference class="- topic/topic       reference/reference " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="enrollment_setting" oid="enrollment_setting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Forced re-enrollment</ph></title>
+    <shortdesc class="- topic/shortdesc ">Specifies whether ChromeOS devices are forced to re-enroll into your account after
+        they’ve been wiped. By default, wiped devices automatically re-enroll into your account
+        without users having to enter their username and password.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <properties class="- topic/simpletable reference/properties " frame="all" id="unique_20_Connect_42_properties_mzp_fds_3zb" nd:nd-id="properties_mzp_fds_3zb">
+            <prophead class="- topic/sthead      reference/prophead ">
+                <proptypehd class="- topic/stentry     reference/proptypehd " dita-ot:x="1" dita-ot:y="1">Setting</proptypehd>
+                <propvaluehd class="- topic/stentry     reference/propvaluehd " dita-ot:x="2" dita-ot:y="1">Values</propvaluehd>
+            </prophead>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="2">Forced enrollment</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="2">setting values are: (1.) Force device to automatically re-enroll after
+                    wiping (2.) Force device to re-enroll with user credentials after wiping (3.)
+                    Device is not forced to re-enroll after wiping</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="3">Considerations</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="3">Don’t force ChromeOS devices that are used in developer mode to
+                    re-enroll. Instead, put them in a different organizational unit and turn off
+                    forced re-enrollment for that organization. </propvalue></property>
+        </properties>
+    </refbody>
+</reference></topic><concept class="- topic/topic concept/concept " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="chrome_user_settings" oid="chrome_user_settings" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Chrome User Settings</ph></title>
+    <shortdesc class="- topic/shortdesc ">Chrome User Settings apply to the user and apply on any platform where the user is
+        logged into Chrome.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">What makes Chrome Management so effective and easy to manage is that it doesn't matter
+            what device or platform the user is on, the Chrome User Settings follow the user. The
+            user is able to pick up where they ended no matter if it's a brand new out of the box
+            Chromebook or a personal Macbook.</p>
+    </conbody>
+</concept></topic></map>

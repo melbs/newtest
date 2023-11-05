@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?><css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:css="http://www.w3.org/1998/CSS"><css:pages><css:page><css:footnote><css:property name="border-top-style" value="solid"/><css:property name="border-top-color" value="black"/><css:property name="border-top-width" value="thin"/><css:property name="padding-top" value="8pt"/></css:footnote></css:page><css:page><css:property name="padding-top" value="0.2em"/><css:property name="padding-bottom" value="0.2em"/><css:property name="width" value="8.5in"/><css:property name="height" value="11.0in"/><css:property name="margin-top" value="1in"/><css:property name="margin-right" value="1in"/><css:property name="margin-left" value="1in"/><css:property name="margin-bottom" value="1in"/></css:page><css:page><css:property name="font-size" value="8pt"/></css:page><css:page><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page pseudo="left "><css:top-left><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-left></css:page><css:page pseudo="right "><css:top-right><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-right></css:page><css:page pseudo="blank "><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="front-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="table-of-contents"><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right></css:page><css:page name="index"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:top-center><css:property name="content"/></css:top-center><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner><css:bottom-center><css:property name="content"><css:counter format="lower-alpha" name="page"/></css:property><css:property name="font-size" value="11pt"/></css:bottom-center></css:page><css:page name="index"><css:property name="column-count" value="2"/><css:property name="column-fill" value="auto"/></css:page><css:page name="chapter"/><css:page name="matter-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-center><css:property name="content"/></css:top-center><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="portrait-page"><css:property name="orientation" value="portrait"/></css:page><css:page name="front-page"><css:property name="background-image" value="url('file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-cover.svg')"/><css:property name="background-position" value="0% 0%"/><css:property name="background-repeat" value="no-repeat"/><css:property name="background-color" value="rgb(56 , 111 , 218)"/></css:page><css:page name="table-of-contents" pseudo="left "><css:top-left><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="table-of-contents" pseudo="right "><css:top-right><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="matter-page" pseudo="left "><css:top-left><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="matter-page" pseudo="right "><css:top-right><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="landscape-page" pseudo="right "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-bottom><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="right"/></css:right-bottom></css:page><css:page name="landscape-page" pseudo="left "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-top><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="left"/></css:right-top></css:page><css:page name="table-of-contents" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="table-of-contents" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="chapter" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="chapter" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page></css:pages><css:page-sequence initial-page-number="1" page="front-page"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap">
+    <head css:border-bottom-color="white" css:border-bottom-style="solid" css:border-bottom-width="1pt" css:border-left-color="white" css:border-left-style="solid" css:border-left-width="1pt" css:border-right-color="white" css:border-right-style="solid" css:border-right-width="1pt" css:border-top-color="white" css:border-top-style="solid" css:border-top-width="1pt" css:display="none" css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em" css:padding-top="1em">
+        <meta content="text/html; charset=UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" http-equiv="Content-Type"/>
+        <meta content="(C) Copyright 2023" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+        <meta content="(C) Copyright 2023" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.rights.owner"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" rel="stylesheet" type="text/css"/>
+        <meta content="DITA-OT" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="generator"/>
+        <meta content="map" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+        <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+        <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Google Workspace Admin Console</title>
+    </head>
+    <body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%">
+        <div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px">
+            <div class="wh_topic_body" css:display="block">
+                <div class="wh_topic_content" css:display="block" css:margin-bottom="80px">
+                    <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en">
+                        <div class="- front-page/front-page front-page" css:display="block"><css:before css:display="block" css:height="0.1px"><css:text/></css:before><div class="- front-page/front-page-title front-page-title" css:color="white" css:display="block" css:font-size="2.5em" css:font-weight="bold" css:line-height="1.3em" css:margin-top="3in" css:padding-top="3em" css:text-align="center">
+                                <div class="- topic/title title" css:bookmark-level="1" css:display="block" css:page-break-after="avoid"><css:string-set name="maptitle"><css:content source="text"/></css:string-set><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><css:oxy-pdf-meta-title><css:content source="text"/></css:oxy-pdf-meta-title>Google
+                                    Workspace Admin Console</div>
+                            </div></div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" page="table-of-contents"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><div class="- toc/toc toc" css:display="block">
+                            <div class="- toc/title title" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:margin-bottom="1em" empty="true"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><css:before css:display="inline"><css:text>Contents</css:text></css:before><css:bookmark-label><css:content source="before"/></css:bookmark-label></div>
+                            <div class="- topic/title title" css:display="none" css:page-break-after="avoid">Google Workspace Admin Console</div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_1" is-chapter="true" type="concept">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="introduction_to_google_workspace_admin_console">
+                                    <div appid="introduction_to_google_workspace_admin_console" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_1" css:text-align-last="justify" href="#unique_1"><css:before css:display="inline" css:link="#unique_1"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="1"/><css:text/><css:text>. </css:text></css:before>Getting
+                                        Started with the Google for Education Admin
+                                        Console<css:after css:display="inline" css:link="#unique_1"><css:leader pattern="."/><css:target-counter url-fragment="unique_1"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none">Google
+                                        for Education Admin Console</div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_2" type="reference">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Untitled">
+                                        <div appid="Untitled" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"/>FAQs<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Common Google Admin questions</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_3" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="directory">
+                                    <div appid="directory" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_3" css:text-align-last="justify" href="#unique_3"><css:before css:display="inline" css:link="#unique_3"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="2"/><css:text/><css:text>. </css:text></css:before>Directory<css:after css:display="inline" css:link="#unique_3"><css:leader pattern="."/><css:target-counter url-fragment="unique_3"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none">Users,
+                                        Groups, OUs and Settings</div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_4" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="users">
+                                        <div appid="users" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_4" css:text-align-last="justify" href="#unique_4"><css:before css:display="inline" css:link="#unique_4"/>User
+                                            Management<css:after css:display="inline" css:link="#unique_4"><css:leader pattern="."/><css:target-counter url-fragment="unique_4"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Overview of managing users in the Admin Console</div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_5" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Untitled">
+                                            <div appid="Untitled" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_5" css:text-align-last="justify" href="#unique_5"><css:before css:display="inline" css:link="#unique_5"/>Configure
+                                                Age-Based Setting
+                                                Access<css:after css:display="inline" css:link="#unique_5"><css:leader pattern="."/><css:target-counter url-fragment="unique_5"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Set age-based access to Google
+                                                services </div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_6" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="user_assign_license">
+                                            <div appid="user_assign_license" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>Assign
+                                                a User
+                                                License<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">How to assign licenses to
+                                                users</div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_7" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="create_users">
+                                            <div appid="create_users" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"/>Create
+                                                a
+                                                user<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Create a user account</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_8" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="organizational_units">
+                                        <div appid="organizational_units" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>Organizational
+                                            Units<css:after css:display="inline" css:link="#unique_8"><css:leader pattern="."/><css:target-counter url-fragment="unique_8"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Apply settings to groups of users or devices </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_9" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="create_an_ou">
+                                            <div appid="create_an_ou" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"/>Create
+                                                an Organizational Unit
+                                                (OU)<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">How to create a new
+                                                organizational unit </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="groups">
+                                        <div appid="groups" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>Groups<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_11" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="create_a_group">
+                                            <div appid="create_a_group" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"/>Create
+                                                a
+                                                group<css:after css:display="inline" css:link="#unique_11"><css:leader pattern="."/><css:target-counter url-fragment="unique_11"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Create a group</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_12" is-chapter="true" type="concept">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="core_services">
+                                    <div appid="core_services" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_12" css:text-align-last="justify" href="#unique_12"><css:before css:display="inline" css:link="#unique_12"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>Core
+                                        Services<css:after css:display="inline" css:link="#unique_12"><css:leader pattern="."/><css:target-counter url-fragment="unique_12"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none">There
+                                        are 17 core services that have unique TOS</div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_13" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="drive">
+                                        <div appid="drive" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_13" css:text-align-last="justify" href="#unique_13"><css:before css:display="inline" css:link="#unique_13"/>Google
+                                            Drive<css:after css:display="inline" css:link="#unique_13"><css:leader pattern="."/><css:target-counter url-fragment="unique_13"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_14" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="turning_on_a_service">
+                                        <div appid="turning_on_a_service" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_14" css:text-align-last="justify" href="#unique_14"><css:before css:display="inline" css:link="#unique_14"/>Turn
+                                            a service on or
+                                            off<css:after css:display="inline" css:link="#unique_14"><css:leader pattern="."/><css:target-counter url-fragment="unique_14"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Turn a service on or off for Google Workspace users
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_15" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="chrome_management">
+                                    <div appid="chrome_management" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_15" css:text-align-last="justify" href="#unique_15"><css:before css:display="inline" css:link="#unique_15"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="4"/><css:text/><css:text>. </css:text></css:before>Chrome
+                                        Management<css:after css:display="inline" css:link="#unique_15"><css:leader pattern="."/><css:target-counter url-fragment="unique_15"/></css:after></div>
+                                    <div class="- map/shortdesc shortdesc" css:display="none">Chrome
+                                        User and Device Management</div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_16" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="device_listing_page">
+                                        <div appid="device_listing_page" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_16" css:text-align-last="justify" href="#unique_16"><css:before css:display="inline" css:link="#unique_16"/>Chrome
+                                            Device
+                                            Management<css:after css:display="inline" css:link="#unique_16"><css:leader pattern="."/><css:target-counter url-fragment="unique_16"/></css:after></div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_17" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="Untitled">
+                                            <div appid="Untitled" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_17" css:text-align-last="justify" href="#unique_17"><css:before css:display="inline" css:link="#unique_17"/>Remotely
+                                                Wiping a
+                                                Chromebook<css:after css:display="inline" css:link="#unique_17"><css:leader pattern="."/><css:target-counter url-fragment="unique_17"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Wiping a Chromebook</div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_18" type="task">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="enrolling_a_chromebook">
+                                            <div appid="enrolling_a_chromebook" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_18" css:text-align-last="justify" href="#unique_18"><css:before css:display="inline" css:link="#unique_18"/>Enrolling
+                                                a
+                                                Chromebook<css:after css:display="inline" css:link="#unique_18"><css:leader pattern="."/><css:target-counter url-fragment="unique_18"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Enroll ChromeOS devices </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_19" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="device_settings">
+                                        <div appid="device_settings" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_19" css:text-align-last="justify" href="#unique_19"><css:before css:display="inline" css:link="#unique_19"/>Device
+                                            Settings<css:after css:display="inline" css:link="#unique_19"><css:leader pattern="."/><css:target-counter url-fragment="unique_19"/></css:after></div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_20" type="reference">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="enrollment_setting">
+                                            <div appid="enrollment_setting" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_20" css:text-align-last="justify" href="#unique_20"><css:before css:display="inline" css:link="#unique_20"/>Forced
+                                                re-enrollment<css:after css:display="inline" css:link="#unique_20"><css:leader pattern="."/><css:target-counter url-fragment="unique_20"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Specifies whether ChromeOS
+                                                devices are forced to re-enroll into your account
+                                                after they’ve been wiped. By default, wiped devices
+                                                automatically re-enroll into your account without
+                                                users having to enter their username and
+                                                password.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_21" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="chrome_user_settings">
+                                        <div appid="chrome_user_settings" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_21" css:text-align-last="justify" href="#unique_21"><css:before css:display="inline" css:link="#unique_21"/>Chrome
+                                            User
+                                            Settings<css:after css:display="inline" css:link="#unique_21"><css:leader pattern="."/><css:target-counter url-fragment="unique_21"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Chrome User Settings apply to the user and apply on any
+                                            platform where the user is logged into Chrome.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title1" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1" is-chapter="true" nd:nd-id="introduction_to_google_workspace_admin_console" oid="introduction_to_google_workspace_admin_console" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title1"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="1"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Getting Started with the Google for
+                                    Education Admin Console</span></h1>
+                            <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Google for Education
+                                    Admin Console</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Google Workspace for
+                                        Education</strong> is a set of Google tools and services
+                                    that are tailored for schools and homeschools to collaborate,
+                                    streamline instruction, and keep learning safe. Google Workspace
+                                    for Education offers multiple options to meet your
+                                    organization’s needs.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Google Workspace for Education provides a suite of cloud-based
+                                    tools to K–12 and higher-education institutions and U.S.
+                                    homeschools. The tools and services include messaging and
+                                    collaboration apps, such as Gmail, Google Drive, Google
+                                    Calendar, Classroom, and so on. </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">If
+                                    your school has sophisticated IT needs, consider Google
+                                    Workspace for Education Plus. It has additional enterprise-grade
+                                    capabilities, such as advanced controls for administrators and
+                                    enhanced analytics. </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">The Google Admin console has over 1,000 settings that are often
+                                    misconfigured making it difficult for administrators to keep the
+                                    domain secure and for teachers and students to leverage
+                                    available tools. Your institution doesn’t want to discover that
+                                    their data and information isn’t safe by experiencing a
+                                    cybersecurity attack or manage users challenged by limited app
+                                    access during a critical time. The Google for Education Audit is
+                                    a comprehensive report that analyzes your existing
+                                    configurations for core services and third-party tools to assess
+                                    their operational efficiency and effectiveness. Recommendations
+                                    and details on how to implement changes are then provided to
+                                    align your domain with EDU best practices and improve your
+                                    institution’s security, compliance, adoption, and usage. </p>
+                            </div>
+                            <article aria-labelledby="ariaid-title2" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_2" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title2"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">FAQs</span></h2>
+                                <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Common Google
+                                        Admin questions</p>
+                                    <div xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="simpletable-container" css:display="block">
+                                        <table border="1" cellpadding="4" cellspacing="0" class="- topic/simpletable reference/properties simpletable properties simpletableborder" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="all" id="unique_2_Connect_42_properties_fbc_lbs_3zb" nd:nd-id="properties_fbc_lbs_3zb">
+                                            <colgroup css:display="table-column-group">
+                                                <col css:display="table-column" css:width="33.333332%" style="width:33.33333333333333%"/>
+                                                <col css:display="table-column" css:width="33.333332%" style="width:33.33333333333333%"/>
+                                                <col css:display="table-column" css:width="33.333332%" style="width:33.33333333333333%"/>
+                                            </colgroup>
+                                            <thead css:display="table-header-group" css:font-weight="bold" css:text-align="center" css:vertical-align="top">
+                                                <tr class="- topic/sthead reference/prophead sthead prophead" css:display="table-row" css:vertical-align="top">
+                                                  <th class="- topic/stentry reference/proptypehd stentry proptypehd" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="0" dita-ot:x="1" dita-ot:y="1" id="unique_2__unique_2_Connect_42_properties_fbc_lbs_3zb__proptypehd__1" scope="col">Question</th>
+                                                  <th class="- topic/stentry reference/propvaluehd stentry propvaluehd" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="0" dita-ot:x="2" dita-ot:y="1" id="unique_2__unique_2_Connect_42_properties_fbc_lbs_3zb__propvaluehd__1" scope="col">Answer</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody css:display="table-row-group" css:vertical-align="top">
+                                                <tr class="- topic/strow reference/property strow property" css:display="table-row" css:vertical-align="top">
+                                                  <td class="- topic/stentry reference/proptype stentry proptype" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="1" css:vertical-align="top" dita-ot:x="1" dita-ot:y="2" style="vertical-align:top;">What is Google Workspace for Education?</td>
+                                                  <td class="- topic/stentry reference/propvalue stentry propvalue" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="1" css:vertical-align="top" dita-ot:x="2" dita-ot:y="2" style="vertical-align:top;">Google Workspace for Education is a set of Google
+                                                  tools and services that are tailored for schools
+                                                  and homeschools. It is available to all
+                                                  educational institutions that qualify. </td>
+                                                  <td class="- topic/stentry reference/propdesc stentry propdesc" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="2" css:table-row="1" css:vertical-align="top" style="vertical-align:top;"> </td>
+                                                </tr>
+                                                <tr class="- topic/strow reference/property strow property" css:display="table-row" css:vertical-align="top">
+                                                  <td class="- topic/stentry reference/proptype stentry proptype" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="2" css:vertical-align="top" dita-ot:x="1" dita-ot:y="3" style="vertical-align:top;">How much is Google Workspace for Education?</td>
+                                                  <td class="- topic/stentry reference/propvalue stentry propvalue" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="2" css:vertical-align="top" dita-ot:x="2" dita-ot:y="3" style="vertical-align:top;">Google Workspace for Education Fundamentals is
+                                                  free to qualified educational institutions. Google
+                                                  Workspace for Education Standard, Education Plus,
+                                                  and Teaching and Learning Upgrade are paid
+                                                  subscriptions. </td>
+                                                  <td class="- topic/stentry reference/propdesc stentry propdesc" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="2" css:table-row="2" css:vertical-align="top" style="vertical-align:top;"> </td>
+                                                </tr>
+                                                <tr class="- topic/strow reference/property strow property" css:display="table-row" css:vertical-align="top">
+                                                  <td class="- topic/stentry reference/proptype stentry proptype" css:border-bottom-style="solid" css:border-bottom-width="0" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="3" css:vertical-align="top" dita-ot:x="1" dita-ot:y="4" style="vertical-align:top;">How much storage do users get with Google
+                                                  Workspace for Education?</td>
+                                                  <td class="- topic/stentry reference/propvalue stentry propvalue" css:border-bottom-style="solid" css:border-bottom-width="0" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="3" css:vertical-align="top" dita-ot:x="2" dita-ot:y="4" style="vertical-align:top;">All Education editions have a baseline of 100 TB
+                                                  of pooled storage shared across the
+                                                  institution.</td>
+                                                  <td class="- topic/stentry reference/propdesc stentry propdesc" css:border-bottom-style="solid" css:border-bottom-width="0" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="2" css:table-row="3" css:vertical-align="top" style="vertical-align:top;"> </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title3" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_3" is-chapter="true" nd:nd-id="directory" oid="directory" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title3"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="2"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Directory</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Users, Groups, OUs
+                                    and Settings</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">The directory section of the admin console contains: Users,
+                                    Groups, Organizational Units and Directory Settings.</p>
+                            </div>
+                            <article aria-labelledby="ariaid-title4" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_4" nd:nd-id="users" oid="users" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">User Management</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Overview of
+                                        managing users in the Admin Console</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Managing users in
+                                        the admin console is one of the most common responsibilities
+                                        for a Google Admin. You can view and do a lot of common
+                                        tasks from the <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://admin.google.com/ac/users?hl=en" format="html" href="https://admin.google.com/ac/users?hl=en" rel="external noopener" scope="external" target="_blank">main
+                                            user listing
+                                            page<css:after css:display="inline" css:font-style="italic" css:link="https://admin.google.com/ac/users?hl=en" css:oxy-alt-text=" "/></a>.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">It is also
+                                        important that admins have properly assigned users as over
+                                        18 and under 18 as that will impact what configurations
+                                        users get.</p>
+                                </div>
+                                <article aria-labelledby="ariaid-title5" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_5" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Configure Age-Based Setting
+                                            Access</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Set
+                                            age-based access to Google services </p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">You can
+                                            designate your users’ age level in the Admin console. If
+                                            you don’t, all users without an age designation get the
+                                            default experience for your institution type.<p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/></section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign into the Admin
+                                                  Console</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">From the Admin console Home
+                                                  page, click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Account settings &gt; Age-based access
+                                                  settings</strong>.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline"> To apply the setting to
+                                                  everyone, leave the top organizational unit
+                                                  selected. Otherwise, select a child organizational
+                                                  unit or a configuration group. For Choose an
+                                                  appropriate age label, choose an option: Some or
+                                                  all users are under 18 years of age or All users
+                                                  are 18 or older </span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="912" dita-ot:image-width="2200" href="file:/Users/melbs/Desktop/code/tc3/images/agebased.png" placement="inline" src="file:/Users/melbs/Desktop/code/tc3/images/agebased.png"><css:content-on-element><css:uri extracted-image-height="442" extracted-image-width="1024" uri="file:/Users/melbs/Desktop/code/tc3/images/agebased.png"/></css:content-on-element></img>
+                                                  </span><br chfox:inch="true" css:display="inline"><css:after css:display="inline"><css:text>&#x2028;</css:text></css:after></br>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline"> Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong>. If you configured an
+                                                  organizational unit or group, you might be able to
+                                                  either Inherit or Override a parent organizational
+                                                  unit, or Unset a group. </span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                                <article aria-labelledby="ariaid-title6" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="user_assign_license" oid="user_assign_license" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Assign a User License</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">How to
+                                            assign licenses to users</p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">How to
+                                            manually assign a user license in the admin console<p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/></section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign into the admin
+                                                  console</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">In the Admin console, go to
+                                                  <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Menu
+                                                  &gt; Directory &gt; Users.</strong>
+                                                  </span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the name of the user
+                                                  you want to manage.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Scroll down and click the
+                                                  user’s License section. </span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click any service to display
+                                                  the on/off switches in the Status column. </span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Next to a service, in the
+                                                  Status column, click the switch to assign or
+                                                  remove a license. </span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong>. </span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                                <article aria-labelledby="ariaid-title7" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_7" nd:nd-id="create_users" oid="create_users" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Create a user</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Create a
+                                            user account</p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">Each
+                                            person who will be using Google services (like Google
+                                            Workspace or Cloud Identity) with your organization
+                                            needs an account. If you haven't already added users to
+                                            your Admin console, you can do that now.</section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign into your Google Admin
+                                                  Console</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline"> In the Admin console, go to
+                                                  <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Menu
+                                                  &gt; Directory &gt; Users</strong></span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">At the top of the page, click
+                                                  <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Add
+                                                  new user</strong></span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Add in the user
+                                                  details</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Repeat these steps for more
+                                                  users</span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                            </article>
+                            <article aria-labelledby="ariaid-title8" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_8" nd:nd-id="organizational_units" oid="organizational_units" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Organizational Units</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Apply settings
+                                        to groups of users or devices </p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Initially in your
+                                        Google Admin console, all your users and devices are placed
+                                        in a single organizational unit, called the top-level
+                                        organizational unit. All settings you make in the Admin
+                                        console apply to this top-level organizational unit and,
+                                        therefore, to all users and devices in your account. </p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">To apply different
+                                        settings to some users or devices, place them in a child
+                                        organizational unit, (for example, Finance, Human Resources)
+                                        below the top level. Users or devices in organizational
+                                        units get the settings that you apply to them. To keep a
+                                        child organizational unit from inheriting its parent’s
+                                        settings, apply to the child any settings that are specific
+                                        to it. </p>
+                                </div>
+                                <article aria-labelledby="ariaid-title9" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_9" nd:nd-id="create_an_ou" oid="create_an_ou" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Create an Organizational Unit
+                                            (OU)</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">How to
+                                            create a new organizational unit </p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">Create
+                                            an OU to put users in<p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/></section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign into your Google Admin
+                                                  Console</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline"> In the Admin console, go to
+                                                  <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Menu
+                                                  &gt; Directory &gt; Organizational
+                                                  units</strong></span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Hover over the organization
+                                                  you want to modify and click <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Create
+                                                  new organizational unit</strong></em></span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">In the Name of organizational
+                                                  unit field, enter the new name</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">(Optional) add a
+                                                  description</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">(Optional) place under
+                                                  another OU</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">create</strong></span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                            </article>
+                            <article aria-labelledby="ariaid-title10" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="groups" oid="groups" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Groups</span></h2>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Get started
+                                        managing groups for an organization </p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">With Google
+                                        Workspace, your organization can use groups to easily
+                                        communicate and collaborate across teams. As an
+                                        administrator, you can also use groups to configure features
+                                        and services for different groups of users. </p>
+                                </div>
+                                <article aria-labelledby="ariaid-title11" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_11" nd:nd-id="create_a_group" oid="create_a_group" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title11"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Create a group</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Create a
+                                            group</p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">As a
+                                            Groups administrator, you can create groups for
+                                            departments, teams, or other sets of users in your
+                                            organization. </section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign into your <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Admin
+                                                  Console</strong></span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">In the Admin console, go to
+                                                  Menu &gt; Directory &gt; Groups</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">At the top, click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Create
+                                                  group</strong>.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Submit</strong></span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title12" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_12" is-chapter="true" nd:nd-id="core_services" oid="core_services" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title12"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="3"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Core Services</span></h1>
+                            <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">There are 17 core
+                                    services that have unique TOS</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Google Workspace Core Services are the heart of Google's
+                                    educational free offering to schools. The Core Services are:
+                                    AppSheet, Assignments, Calendar, Classroom, Cloud Search, Drive
+                                    and Docs, Gmail, Google Chat, Google Meet, Google Vault, Groups
+                                    for Business, Keep, Tasks.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Core Services within a Google for Education Workspace domain
+                                    are important due to specific terms of services abiding by
+                                    children protection laws. Core Services can be enabled or
+                                    disabled by Organization Unit or Group.</p>
+                            </div>
+                            <article aria-labelledby="ariaid-title13" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_13" nd:nd-id="drive" oid="drive" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title13"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Google Drive</span></h2>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Store, access, and
+                                        share your files in one secure place </p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title14" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_14" nd:nd-id="turning_on_a_service" oid="turning_on_a_service" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title14"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Turn a service on or off</span></h2>
+                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Turn a service
+                                        on or off for Google Workspace users </p>
+                                    <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">As an
+                                        administrator, you can control who uses which Google
+                                        services from their account. Just turn the service on or off
+                                        for those users in your Google Admin console. When users
+                                        sign in to their account, they have only the services that
+                                        are turned on for them. </section>
+                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                            <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Sign in to your <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Google
+                                                  Admin console.</strong></span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">In the Admin console, go to
+                                                  Menu &gt; Google Workspace &gt; Service status.
+                                                </span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the service that you
+                                                  want to turn on or off. </span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Service status</strong></span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">on</strong> or <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">off</strong></span>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                </div>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/melbs/Desktop/code/tc3/audit3.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title15" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_15" is-chapter="true" nd:nd-id="chrome_management" oid="chrome_management" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title15"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="4"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Chrome Management</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Chrome User and
+                                    Device Management</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Enroll a test device, set some policies, and more, using our
+                                    interactive walkthrough. This is a safe space to explore and
+                                    test ChromeOS management. </p>
+                            </div>
+                            <article aria-labelledby="ariaid-title16" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_16" nd:nd-id="device_listing_page" oid="device_listing_page" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title16"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Chrome Device Management</span></h2>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">As a school
+                                        administrator, you can deploy enterprise or education
+                                        features for Chrome users across a range of devices. </p>
+                                    <div class="- topic/bodydiv bodydiv" css:display="block"/>
+                                </div>
+                                <article aria-labelledby="ariaid-title17" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_17" nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title17"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Remotely Wiping a
+                                        Chromebook</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Wiping a
+                                            Chromebook</p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">Google
+                                            Admins can remotely wipe a Chromebook from within the
+                                            admin console.<p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/></section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to:
+                                                  admin.google.com</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to device listing
+                                                  page</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select a Chromebook and go
+                                                  into the device record</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the wipe button</span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                                <article aria-labelledby="ariaid-title18" class="- topic/topic task/task topic task nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_18" nd:nd-id="enrolling_a_chromebook" oid="enrolling_a_chromebook" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title18"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Enrolling a Chromebook</span></h3>
+                                    <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Enroll
+                                            ChromeOS devices </p>
+                                        <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">To
+                                            enforce the device policies you set in your Google Admin
+                                            console, you need to enroll ChromeOS devices. <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"/></section>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">open your chromebook</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">do the key combo</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">enter in the wifi</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">log in with this
+                                                  un/pwd</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">wait for a bit</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">make sure you reboot</span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </div>
+                                </article>
+                            </article>
+                            <article aria-labelledby="ariaid-title19" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_19" nd:nd-id="device_settings" oid="device_settings" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title19"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Device Settings</span></h2>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Device Settings
+                                        apply to the managed Chromebook device, which are located in
+                                        an Organizational Unit. Device Settings can be configured on
+                                        sets of devices in different sitautions to allow them to act
+                                        different according to what is needed.</p>
+                                </div>
+                                <article aria-labelledby="ariaid-title20" class="- topic/topic reference/reference topic reference nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_20" nd:nd-id="enrollment_setting" oid="enrollment_setting" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title20"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Forced re-enrollment</span></h3>
+                                    <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Specifies
+                                            whether ChromeOS devices are forced to re-enroll into
+                                            your account after they’ve been wiped. By default, wiped
+                                            devices automatically re-enroll into your account
+                                            without users having to enter their username and
+                                            password.</p>
+                                        <div xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="simpletable-container" css:display="block">
+                                            <table border="1" cellpadding="4" cellspacing="0" class="- topic/simpletable reference/properties simpletable properties simpletableborder" css:border-bottom-color="black" css:border-bottom-style="none" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="none" css:border-right-color="black" css:border-right-style="none" css:border-top-color="black" css:border-top-style="none" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" frame="all" id="unique_20_Connect_42_properties_mzp_fds_3zb" nd:nd-id="properties_mzp_fds_3zb">
+                                                <colgroup css:display="table-column-group">
+                                                  <col css:display="table-column" css:width="33.333332%" style="width:33.33333333333333%"/>
+                                                  <col css:display="table-column" css:width="33.333332%" style="width:33.33333333333333%"/>
+                                                  <col css:display="table-column" css:width="33.333332%" style="width:33.33333333333333%"/>
+                                                </colgroup>
+                                                <thead css:display="table-header-group" css:font-weight="bold" css:text-align="center" css:vertical-align="top">
+                                                  <tr class="- topic/sthead reference/prophead sthead prophead" css:display="table-row" css:vertical-align="top">
+                                                  <th class="- topic/stentry reference/proptypehd stentry proptypehd" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="0" dita-ot:x="1" dita-ot:y="1" id="unique_20__unique_20_Connect_42_properties_mzp_fds_3zb__proptypehd__1" scope="col">Setting</th>
+                                                  <th class="- topic/stentry reference/propvaluehd stentry propvaluehd" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="0" dita-ot:x="2" dita-ot:y="1" id="unique_20__unique_20_Connect_42_properties_mzp_fds_3zb__propvaluehd__1" scope="col">Values</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody css:display="table-row-group" css:vertical-align="top">
+                                                  <tr class="- topic/strow reference/property strow property" css:display="table-row" css:vertical-align="top">
+                                                  <td class="- topic/stentry reference/proptype stentry proptype" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="1" css:vertical-align="top" dita-ot:x="1" dita-ot:y="2" style="vertical-align:top;">Forced enrollment</td>
+                                                  <td class="- topic/stentry reference/propvalue stentry propvalue" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="1" css:vertical-align="top" dita-ot:x="2" dita-ot:y="2" style="vertical-align:top;">setting values are: (1.) Force device to
+                                                  automatically re-enroll after wiping (2.) Force
+                                                  device to re-enroll with user credentials after
+                                                  wiping (3.) Device is not forced to re-enroll
+                                                  after wiping</td>
+                                                  <td class="- topic/stentry reference/propdesc stentry propdesc" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="2" css:table-row="1" css:vertical-align="top" style="vertical-align:top;"> </td>
+                                                  </tr>
+                                                  <tr class="- topic/strow reference/property strow property" css:display="table-row" css:vertical-align="top">
+                                                  <td class="- topic/stentry reference/proptype stentry proptype" css:border-bottom-style="solid" css:border-bottom-width="0" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="2" css:vertical-align="top" dita-ot:x="1" dita-ot:y="3" style="vertical-align:top;">Considerations</td>
+                                                  <td class="- topic/stentry reference/propvalue stentry propvalue" css:border-bottom-style="solid" css:border-bottom-width="0" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="2" css:vertical-align="top" dita-ot:x="2" dita-ot:y="3" style="vertical-align:top;">Don’t force ChromeOS devices that are used in
+                                                  developer mode to re-enroll. Instead, put them in
+                                                  a different organizational unit and turn off
+                                                  forced re-enrollment for that organization. </td>
+                                                  <td class="- topic/stentry reference/propdesc stentry propdesc" css:border-bottom-style="solid" css:border-bottom-width="0" css:border-right-style="solid" css:border-right-width="0" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="2" css:table-row="2" css:vertical-align="top" style="vertical-align:top;"> </td>
+                                                  </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </article>
+                            </article>
+                            <article aria-labelledby="ariaid-title21" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_21" nd:nd-id="chrome_user_settings" oid="chrome_user_settings" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title21"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Chrome User Settings</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Chrome User
+                                        Settings apply to the user and apply on any platform where
+                                        the user is logged into Chrome.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">What makes Chrome
+                                        Management so effective and easy to manage is that it
+                                        doesn't matter what device or platform the user is on, the
+                                        Chrome User Settings follow the user. The user is able to
+                                        pick up where they ended no matter if it's a brand new out
+                                        of the box Chromebook or a personal Macbook.</p>
+                                </div>
+                            </article>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html></css:page-sequence></css:root>

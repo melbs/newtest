@@ -2,7 +2,7 @@
 <map>
    <appContext helpID="introduction_to_google_workspace_admin_console"
                path="topics/introduction_to_google_workspace_admin_console.html"/>
-   <appContext helpID="ou_faqs" path="topics/faqs.html"/>
+   <appContext helpID="Untitled" path="topics/fAQ2.html"/>
    <appContext helpID="directory" path="topics/directory.html"/>
    <appContext helpID="users" path="topics/users.html"/>
    <appContext helpID="Untitled" path="topics/set_age_based_access.html"/>
@@ -15,11 +15,11 @@
    <appContext helpID="core_services" path="topics/core_services.html"/>
    <appContext helpID="drive" path="topics/drive.html"/>
    <appContext helpID="turning_on_a_service" path="topics/turning_on_a_service.html"/>
+   <appContext helpID="chrome_management" path="topics/chrome_management.html"/>
    <appContext helpID="device_listing_page" path="topics/device_listing_page.html"/>
    <appContext helpID="Untitled" path="topics/wipe_chromebook.html"/>
    <appContext helpID="enrolling_a_chromebook"
                path="topics/enrolling_a_chromebook.html"/>
-   <appContext helpID="chrome_management" path="topics/chrome_management.html"/>
    <appContext helpID="device_settings" path="topics/device_settings.html"/>
    <appContext helpID="enrollment_setting" path="topics/enrollment_setting.html"/>
    <appContext helpID="chrome_user_settings" path="topics/chrome_user_settings.html"/>
